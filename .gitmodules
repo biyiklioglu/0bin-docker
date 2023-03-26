@@ -1,0 +1,3 @@
+[submodule "0bin"]
+	path = 0bin
+	url = https://github.com/Tygs/0bin.git
